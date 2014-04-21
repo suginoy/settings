@@ -66,6 +66,8 @@
 
 - VLC media player http://www.videolan.org/vlc/index.ja.html
 
+- Google日本語入力 http://www.google.co.jp/ime/
+
 ## 取引先変わったら
 
 ### パスワードでスリープ復帰
