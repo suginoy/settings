@@ -68,6 +68,18 @@
 
 - Google日本語入力 http://www.google.co.jp/ime/
 
+- HipChat https://www.hipchat.com/downloads
+
+  - Hip Chat Preferences
+    - Chat display
+      - [Show room join and leave messages]を外す
+
+    - Notification
+      - [A message is sent to an open room I'm in.] を外す
+
+
+
+
 ## 取引先変わったら
 
 ### パスワードでスリープ復帰
