@@ -58,6 +58,9 @@
 
 - Sypher zipファイル暗号化(未インストール)
 
+- Battery Diag
+ - [MacBookのバッテリー診断ができる『Battery Diag』で買い替えを見極める]( http://www.lifehacker.jp/2014/04/140409battery_diag.html)
+
 ### Download
 
 - AppCleaner http://www.freemacsoft.net/appcleaner/
