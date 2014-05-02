@@ -65,6 +65,8 @@
 - Battery Diag
  - [MacBookのバッテリー診断ができる『Battery Diag』で買い替えを見極める]( http://www.lifehacker.jp/2014/04/140409battery_diag.html)
 
+- Slack HipChat代替のIRC
+
 ### Download
 
 - AppCleaner http://www.freemacsoft.net/appcleaner/
@@ -80,12 +82,10 @@
   - Hip Chat Preferences
     - Chat display
       - [Show room join and leave messages]を外す
-
     - Notification
       - [A message is sent to an open room I'm in.] を外す
 
-
-
+- StartNinja Macの起動音を消す http://www.allvu.com/index.php/sndownloadpage.html
 
 ## 取引先変わったら
 
