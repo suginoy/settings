@@ -69,6 +69,8 @@
 
 - Slack HipChat代替のIRC
 
+- Pocket あとで読む系
+
 ### Download
 
 - AppCleaner http://www.freemacsoft.net/appcleaner/
@@ -115,4 +117,5 @@ iOS側
 
 ## ブラウザ設定 
 
-Media Marker ブックマークレット http://mediamarker.net/help/tool
+- Media Marker ブックマークレット http://mediamarker.net/help/tool
+- Pocket ブックマークレット https://getpocket.com/add
