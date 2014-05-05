@@ -113,3 +113,6 @@ iOS側
   [設定]アプリ -> [iTunes&App Store] -> [自動的ダウンロード] -> [ミュージック]をオンにする
 
 
+## ブラウザ設定 
+
+Media Marker ブックマークレット http://mediamarker.net/help/tool
