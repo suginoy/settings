@@ -74,6 +74,7 @@
 ### Download
 
 - BetterTouchTool トラックパッド拡張 http://www.boastr.de/
+  - [セキュリティとプライバシー] -> [プライバシー]タブ -> [アクセシビリティ] -> [下のアプリケーションのコンピュータの制御を許可]
 
 TODO: 設定
 
@@ -92,6 +93,7 @@ TODO: 設定
       - [Show room join and leave messages]を外す
     - Notification
       - [A message is sent to an open room I'm in.] を外す
+  - [セキュリティとプライバシー] -> [プライバシー]タブ -> [アクセシビリティ] -> [下のアプリケーションのコンピュータの制御を許可。]
 
 - StartNinja Macの起動音を消す http://www.allvu.com/index.php/sndownloadpage.html
 
