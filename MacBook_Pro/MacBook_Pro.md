@@ -73,6 +73,10 @@
 
 ### Download
 
+- BetterTouchTool トラックパッド拡張 http://www.boastr.de/
+
+TODO: 設定
+
 - AppCleaner http://www.freemacsoft.net/appcleaner/
 
 - Senebier(Mavericks未対応？) http://www.bicoid.com/app/senebier/
