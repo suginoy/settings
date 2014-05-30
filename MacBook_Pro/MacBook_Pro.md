@@ -75,6 +75,9 @@
 
 - BetterTouchTool トラックパッド拡張 http://www.boastr.de/
   - [セキュリティとプライバシー] -> [プライバシー]タブ -> [アクセシビリティ] -> [下のアプリケーションのコンピュータの制御を許可]
+  - ログイン時に起動
+	- アプリケーションから起動 -> [Preferences] -> [Basic Settings]タブを選択 -> [Launch BetterTouchTool on startup]
+
 
 TODO: 設定
 
