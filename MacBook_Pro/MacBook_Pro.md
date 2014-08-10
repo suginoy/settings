@@ -71,6 +71,8 @@
 
 - Pocket あとで読む系
 
+- Covered iTunesのアートワーク取得
+
 ### Download
 
 - BetterTouchTool トラックパッド拡張 http://www.boastr.de/
