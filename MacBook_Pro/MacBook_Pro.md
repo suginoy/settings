@@ -78,6 +78,8 @@
   - ログイン時に起動
 	- アプリケーションから起動 -> [Preferences] -> [Basic Settings]タブを選択 -> [Launch BetterTouchTool on startup]
 
+- Google Drive
+  - https://tools.google.com/dlpage/drive/?hl=ja
 
 TODO: 設定
 
