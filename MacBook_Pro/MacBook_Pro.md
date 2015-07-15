@@ -89,6 +89,9 @@
 - Google Drive
   - https://tools.google.com/dlpage/drive/?hl=ja
 
+- MPlayerX
+  - http://mplayerx.org/
+
 TODO: 設定
 
 - AppCleaner http://www.freemacsoft.net/appcleaner/
