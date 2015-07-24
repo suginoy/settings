@@ -81,6 +81,9 @@
 
 ### Download
 
+- Vagrant
+  - http://www.vagrantup.com/downloads.html 
+
 - BetterTouchTool トラックパッド拡張 http://www.boastr.de/
   - [セキュリティとプライバシー] -> [プライバシー]タブ -> [アクセシビリティ] -> [下のアプリケーションのコンピュータの制御を許可]
   - ログイン時に起動
