@@ -95,6 +95,9 @@
 - MPlayerX
   - http://mplayerx.org/
 
+- heroku toolbelt
+  - https://toolbelt.heroku.com/
+
 TODO: 設定
 
 - AppCleaner http://www.freemacsoft.net/appcleaner/
