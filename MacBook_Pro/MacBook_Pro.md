@@ -43,6 +43,34 @@
 - 並び順
   [Finder] -> [並び順序] -> [名前]
 
+- パスバーの階層表示をホームから表示する
+```sh
+defaults write com.apple.finder PathBarRootAtHome -bool yes
+# 元に戻す
+defaults delete com.apple.finder PathBarRootAtHome
+```
+
+- Dockのアイコン表示を、現在起動しているアプリのみ表示する
+```sh
+defaults write com.apple.dock static-only -boolean true
+# 元に戻す
+defaults delete com.apple.dock static-only
+```
+
+- キャプチャ画像の保存先をデフォルトのデスクトップから ~/Downloads にする
+```sh
+defaults write com.apple.screencapture location ~/Downloads
+# 元に戻す
+defaults delete com.apple.screencapture location
+```
+
+- キャプチャ画像のファイル形式をデフォルトの PNG から JPEG にする
+```sh
+defaults write com.apple.screencapture type jpg
+# その他
+gif / png / jpg / jp2 / pdf / pict / psd / sgi / tga / tif / bmp
+```
+
 ## Dock環境設定
 [システム環境設定] -> [Dock]パネル
   [ウィンドウのタイトルバーをダブルクリックしてウィンドウをしまう]にチェック
