@@ -98,6 +98,10 @@
 - heroku toolbelt
   - https://toolbelt.heroku.com/
 
+- cd to
+  - https://github.com/jbtule/cdto
+    - zipを解凍後、/Applications 置いて、 cdto_x_x/item/cd\to.app を Cmd キー押しながら、Finder に D&D
+
 TODO: 設定
 
 - AppCleaner http://www.freemacsoft.net/appcleaner/
