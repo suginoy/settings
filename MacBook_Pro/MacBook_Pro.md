@@ -134,6 +134,14 @@ gif / png / jpg / jp2 / pdf / pict / psd / sgi / tga / tif / bmp
   - https://github.com/jbtule/cdto
     - zipを解凍後、/Applications 置いて、 cdto_x_x/item/cd\to.app を Cmd キー押しながら、Finder に D&D
 
+- iTunes Plugin Cover Version
+  - http://www.imagomat.de/coverversion/index.htm
+    - dmg を解凍後、以下にファイルを配置 再生中に Cmd + T で表示
+  
+```sh
+cp ./CoverVersion.bundle ~/Library/iTunes/iTunes\ Plug-ins/
+```
+
 TODO: 設定
 
 - AppCleaner http://www.freemacsoft.net/appcleaner/
