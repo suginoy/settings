@@ -122,6 +122,12 @@ gif / png / jpg / jp2 / pdf / pict / psd / sgi / tga / tif / bmp
 
 ### Download
 
+- iTerm2
+  - https://www.iterm2.com/downloads.html
+  - Cmd + Click で Atom で開く設定
+    - メニューの [iTerm2] -> [Preferences...] -> [Advanced] タブ -> [Semantic History] のドロップダウンリストを [Open with editor...] と [Atom] に設定
+  TODO: config のバックアップ
+
 - Vagrant
   - http://www.vagrantup.com/downloads.html 
 
