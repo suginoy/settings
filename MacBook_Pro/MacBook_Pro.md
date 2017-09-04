@@ -128,9 +128,6 @@ gif / png / jpg / jp2 / pdf / pict / psd / sgi / tga / tif / bmp
     - メニューの [iTerm2] -> [Preferences...] -> [Advanced] タブ -> [Semantic History] のドロップダウンリストを [Open with editor...] と [Atom] に設定
   TODO: config のバックアップ
 
-- Vagrant
-  - http://www.vagrantup.com/downloads.html 
-
 - BetterTouchTool トラックパッド拡張 http://www.boastr.de/
   - [セキュリティとプライバシー] -> [プライバシー]タブ -> [アクセシビリティ] -> [下のアプリケーションのコンピュータの制御を許可]
   - ログイン時に起動
