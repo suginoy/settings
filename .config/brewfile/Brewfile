@@ -1,0 +1,104 @@
+tap "argon/mas"
+tap "caskroom/cask"
+tap "caskroom/versions"
+tap "homebrew/boneyard"
+tap "homebrew/bundle"
+tap "homebrew/core"
+tap "homebrew/dupes"
+tap "homebrew/services"
+tap "homebrew/versions"
+tap "rcmdnk/file"
+brew "ansible"
+brew "apple-gcc42"
+brew "aria2"
+brew "autoconf"
+brew "chromedriver"
+brew "direnv"
+brew "elasticsearch"
+brew "ffmpeg"
+brew "freetype"
+brew "git"
+brew "gnu-tar"
+brew "imagemagick"
+brew "jq"
+brew "libevent"
+brew "libvo-aacenc"
+brew "libxslt"
+brew "makedepend"
+brew "mas"
+brew "multimarkdown"
+brew "nkf"
+brew "node"
+brew "ossp-uuid"
+brew "pcre"
+brew "peco"
+brew "phantomjs"
+brew "pkg-config"
+brew "postgresql"
+brew "protobuf"
+brew "pyenv"
+brew "qt"
+brew "qcachegrind"
+brew "ruby-build"
+brew "rbenv"
+brew "rbenv-default-gems"
+brew "rbenv-readline"
+brew "redis"
+brew "rmtrash"
+brew "rtmpdump"
+brew "ssh-copy-id"
+brew "swftools"
+brew "the_silver_searcher"
+brew "tig"
+brew "tmux"
+brew "tree"
+brew "wget"
+brew "youtube-dl"
+brew "zsh"
+brew "rcmdnk/file/brew-file"
+cask "anaconda"
+cask "docker"
+cask "fluid"
+cask "java"
+cask "kindle"
+cask "soundflower"
+cask "vagrant"
+cask "virtualbox"
+cask "wkhtmltopdf"
+cask "wwdc"
+mas "1Password", id: 443987910
+mas "Battery Monitor", id: 836505650
+mas "Booxter Lite", id: 406421537
+mas "Caffeine", id: 411246225
+mas "ClamXav", id: 430207028
+mas "Covered", id: 860548294
+mas "Evernote", id: 406056744
+mas "feedly", id: 865500966
+mas "GarageBand", id: 408980954
+mas "iBooks Author", id: 490152466
+mas "iMovie", id: 408981434
+mas "iMovie 9.0.9", id: 408981434
+mas "iPhoto", id: 408981381
+mas "Keynote", id: 409183694
+mas "LINE", id: 539883307
+mas "MARKETSPEED", id: 946680495
+mas "Memory Clean", id: 451444120
+mas "Nozbe", id: 508957583
+mas "Numbers", id: 409203825
+mas "Pages", id: 409201541
+mas "Pocket", id: 568494494
+mas "ReceiptKeeper", id: 413449473
+mas "Resizer", id: 411277085
+mas "Right QR", id: 496947232
+mas "ScanSnap Cloud", id: 1035516352
+mas "Skitch", id: 425955336
+mas "Slack", id: 803453959
+mas "SourceTree", id: 411678673
+mas "StuffIt Expander", id: 405580712
+mas "SuperEgo", id: 735932385
+mas "The Unarchiver", id: 425424353
+mas "Timing", id: 431511738
+mas "Tomato One", id: 907364780
+mas "Wake Up Time", id: 495945638
+mas "Wunderlist", id: 410628904
+mas "Xcode", id: 497799835
