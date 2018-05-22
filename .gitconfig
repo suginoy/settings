@@ -1,0 +1,40 @@
+[alias]
+	st = status -s
+	ci = commit
+	co = checkout
+	fu = git commit -m 'fixup' && g rebaase -i HEAD~5
+	graph = log --graph --date=short --decorate=short --pretty=format:'%Cgreen%h %Creset%cd %Cblue%cn %Cred%d %Creset%s'
+	br = branch
+	gr = grep -n
+	hist = log --pretty=format:\\\"%h %ad | %s%d [%an]\\\" --graph --date=short
+	brd = !git branch --merged | grep -v \\* | xargs -I % git branch -d %
+	po = pull origin
+	ra = rebase --abort
+	rc = rebase --continue
+	re = rebase
+	ri = rebase -i
+	rs = rebase --skip
+	sts = stash save      
+	stp = stash pop
+	stsp = stash show -p
+	std  = stash drop
+	stl = stash list
+[color]
+	ui = auto
+[user]
+	name = suginoy
+	email = suginoyasuhiro@gmail.com
+[core]
+	excludesfile = /Users/suginoyasuhiro/.gitignore_global
+	editor = /usr/bin/vim
+	precomposeunicode = true
+[difftool "sourcetree"]
+	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
+	path = 
+[mergetool "sourcetree"]
+	cmd = /Applications/SourceTree.app/Contents/Resources/opendiff-w.sh \"$LOCAL\" \"$REMOTE\" -ancestor \"$BASE\" -merge \"$MERGED\"
+	trustExitCode = true
+[diff]
+	compactionHeuristic = true
+[fetch]
+	prune = true
