@@ -28,12 +28,6 @@
 	excludesfile = /Users/suginoyasuhiro/.gitignore_global
 	editor = /usr/bin/vim
 	precomposeunicode = true
-[difftool "sourcetree"]
-	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
-	path = 
-[mergetool "sourcetree"]
-	cmd = /Applications/SourceTree.app/Contents/Resources/opendiff-w.sh \"$LOCAL\" \"$REMOTE\" -ancestor \"$BASE\" -merge \"$MERGED\"
-	trustExitCode = true
 [diff]
 	compactionHeuristic = true
 [fetch]
