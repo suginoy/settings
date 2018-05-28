@@ -60,8 +60,6 @@ alias gst='git st'
 alias grt='git reset'
 alias grp='git reset -p'
 
-alias rm='rmtrash'
-
 # git completion
 # http://blog.qnyp.com/2013/05/14/zsh-git-completion/
 fpath=($(brew --prefix)/share/zsh/site-functions $fpath)
