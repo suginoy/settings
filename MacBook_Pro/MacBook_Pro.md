@@ -158,20 +158,9 @@ TODO: 設定
 
 - AppCleaner http://www.freemacsoft.net/appcleaner/
 
-- Senebier(Mavericks未対応？) http://www.bicoid.com/app/senebier/
-
 - VLC media player http://www.videolan.org/vlc/index.ja.html
 
 - Google日本語入力 http://www.google.co.jp/ime/
-
-- HipChat https://www.hipchat.com/downloads
-
-  - Hip Chat Preferences
-    - Chat display
-      - [Show room join and leave messages]を外す
-    - Notification
-      - [A message is sent to an open room I'm in.] を外す
-  - [セキュリティとプライバシー] -> [プライバシー]タブ -> [アクセシビリティ] -> [下のアプリケーションのコンピュータの制御を許可。]
 
 - StartNinja Macの起動音を消す http://www.allvu.com/index.php/sndownloadpage.html
 
