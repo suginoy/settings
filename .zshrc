@@ -79,6 +79,6 @@ RPROMPT="%1(v|%F{green}%1v%f|)"
 
 # direnv installed by Homebrew
 # https://github.com/zimbatm/direnv/wiki/
-export EDITOR=vi
+export EDITOR=atom
 eval "$(direnv hook $0)"
 
