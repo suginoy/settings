@@ -77,6 +77,16 @@ defaults write com.apple.screencapture location ~/Downloads
 defaults delete com.apple.screencapture location
 ```
 
+- macOS Mojaveで非Retinaモニタのフォントが汚い件の解決策
+```sh
+defaults write -g CGFontRenderingFontSmoothingDisabled -bool NO
+# 元に戻す
+defaults write -g CGFontRenderingFontSmoothingDisabled -bool YES
+```
+
+ref https://hatebu.me/entry/mojavefont
+
+
 - キャプチャ画像のファイル形式をデフォルトの PNG から JPEG にする
 ```sh
 defaults write com.apple.screencapture type jpg
