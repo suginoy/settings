@@ -128,7 +128,7 @@ gif / png / jpg / jp2 / pdf / pict / psd / sgi / tga / tif / bmp
 - Battery Diag
  - [MacBookのバッテリー診断ができる『Battery Diag』で買い替えを見極める]( http://www.lifehacker.jp/2014/04/140409battery_diag.html)
 
-- Slack HipChat代替のIRC
+- Slack
 
 - Pocket あとで読む系
 
