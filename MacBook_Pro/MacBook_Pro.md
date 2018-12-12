@@ -11,6 +11,9 @@
 
   [System Preferences...] -> [Keyboard]icon -> [Shortcuts]tab -> [Keyboard] -> [Move focus to next window] -> Click [⌘F1] -> input [Option]key + [Tab]key
 
+- Dock を自動的に隠す
+  [System Preferences...] -> [Dock] -> Check [Automatically hide and show the Dock]
+
 ## トラックパッド
 
 - [システム環境設定] -> [トラックパッド] -> [ポイントとクリック]タブ -> [奇跡の速さ] 右から3つ目
