@@ -181,6 +181,8 @@ TODO: 設定
 
 - StartNinja Macの起動音を消す http://www.allvu.com/index.php/sndownloadpage.html
 
+- TODO: 英辞郎の辞書を DVD-ROM から追加する
+
 ## 取引先変わったら
 
 ### Cisco AnyConnect Secure Mobility Client.app を削除、パスワードも削除
