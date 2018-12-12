@@ -7,6 +7,10 @@
   Tab のフォーカスがどちらにあたってようが、Return を押したら選択されているほうで決定してしまうので Space キーを使うこと。
   http://highfivecreate.com/blog/job/796.html
 
+- 同一アプリケーションのウィンドウを切り替えるショートカット（デフォルトは Cmd + F1)
+
+  [System Preferences...] -> [Keyboard]icon -> [Shortcuts]tab -> [Keyboard] -> [Move focus to next window] -> Click [⌘F1] -> input [Option]key + [Tab]key
+
 ## トラックパッド
 
 - [システム環境設定] -> [トラックパッド] -> [ポイントとクリック]タブ -> [奇跡の速さ] 右から3つ目
