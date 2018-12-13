@@ -139,6 +139,14 @@ gif / png / jpg / jp2 / pdf / pict / psd / sgi / tga / tif / bmp
 
 ### Download
 
+- Browsers
+  - Chrome https://www.google.co.jp/chrome/
+  - Firefox https://www.mozilla.org/ja/firefox/new/
+  - Chrome Canary https://www.google.com/intl/ja_ALL/chrome/canary/
+  - Safari Technology Preview https://developer.apple.com/safari/technology-preview/
+  - Brave https://brave.com/
+  - Iron https://www.srware.net/en/software_srware_iron_download.php
+
 - iTerm2
   - https://www.iterm2.com/downloads.html
   - Cmd + Click で Atom で開く設定
