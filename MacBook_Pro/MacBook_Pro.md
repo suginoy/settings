@@ -150,6 +150,9 @@ gif / png / jpg / jp2 / pdf / pict / psd / sgi / tga / tif / bmp
   - ログイン時に起動
 	- アプリケーションから起動 -> [Preferences] -> [Basic Settings]タブを選択 -> [Launch BetterTouchTool on startup]
 
+- Hosts(実体は環境設定ファイル)
+  - https://github.com/specialunderwear/Hosts.prefpane
+
 - Google Drive
   - https://tools.google.com/dlpage/drive/?hl=ja
 
@@ -186,6 +189,9 @@ TODO: 設定
 ## 取引先変わったら
 
 ### Cisco AnyConnect Secure Mobility Client.app を削除、パスワードも削除
+
+### Hosts の設定があれば消す
+  [System Preferences...] -> [Hosts]
 
 ### パスワードでスリープ復帰
   [システム環境設定] -> [セキュリティとプライバシー]パネル -> [一般] -> [スリープ解除／スクリーンセーバ解除にパスワードを要求]にチェック、[開始後]を[5分後]に設定
