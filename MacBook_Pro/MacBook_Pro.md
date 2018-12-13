@@ -164,6 +164,9 @@ gif / png / jpg / jp2 / pdf / pict / psd / sgi / tga / tif / bmp
 - Google Drive
   - https://tools.google.com/dlpage/drive/?hl=ja
 
+- Kindle for Mac
+  - https://www.amazon.co.jp/Amazon-com-Intl-Sales-Inc-Kindle/dp/B011UEIO4S/
+
 - MPlayerX
   - http://mplayerx.org/
 
