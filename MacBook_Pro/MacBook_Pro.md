@@ -118,8 +118,6 @@ gif / png / jpg / jp2 / pdf / pict / psd / sgi / tga / tif / bmp
 
 - Alfred ランチャー
 
-- Memory Clean メモリ解放
-
 - Nozbe To-do and Project Management GTDタスク管理
 
 - The Unarchiver 解凍
