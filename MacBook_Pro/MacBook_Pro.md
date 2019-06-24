@@ -101,6 +101,9 @@ defaults write com.apple.screencapture type jpg
 gif / png / jpg / jp2 / pdf / pict / psd / sgi / tga / tif / bmp
 ```
 
+- Menu バーのバッテリーアイコンに残量をパーセント表示する
+  - Menu のバッテリーアイコン -> [Show Percentage]
+
 ## Dock環境設定
 [システム環境設定] -> [Dock]パネル
   [ウィンドウのタイトルバーをダブルクリックしてウィンドウをしまう]にチェック
