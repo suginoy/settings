@@ -234,3 +234,6 @@ iOS側
 
 - Media Marker ブックマークレット http://mediamarker.net/help/tool
 - Pocket ブックマークレット https://getpocket.com/add
+- Gmail
+  - [Settings](https://mail.google.com/mail/u/0/#settings/general) -> [Keyboard shortcuts] -> [Keyboard shortcuts on] -> [Save changes] button
+
