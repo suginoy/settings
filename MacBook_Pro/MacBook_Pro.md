@@ -75,7 +75,7 @@ defaults delete com.apple.dock static-only
 
 - 上記「Dockのアイコン表示を現在起動しているアプリのみ表示する」ようにすると Dock から消えてしまうので Dock に追加する
 
-  - Finder を開いて [よく使う項目] で[アプリケーション]を右クリック -> [Dockに追加] を選択
+  - Finder を開いて [Favorites] -> [Application]を右クリック -> [Add to Dock] を選択
 
 - キャプチャ画像の保存先をデフォルトのデスクトップから ~/Downloads にする
 ```sh
