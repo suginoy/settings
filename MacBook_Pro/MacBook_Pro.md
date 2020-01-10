@@ -2,7 +2,7 @@
 
 - 確認ダイアログをマウスを使わないで選択する
 
-  [システム環境設定] -> [キーボード] -> [キーボードショートカット]タブ -> [フルキーボードアクセス] -> [すべてのコントロール] にチェック
+  [System Preferences] -> [Keyboard] -> Select [Shortcuts] tab -> [Full Keyboard Access: In windows and dialogs, press Tab to move keyboard focus between:] -> Select [All controls] radio button
 
   Tab のフォーカスがどちらにあたってようが、Return を押したら選択されているほうで決定してしまうので Space キーを使うこと。
   http://highfivecreate.com/blog/job/796.html
