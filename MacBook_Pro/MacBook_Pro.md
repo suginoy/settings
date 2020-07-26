@@ -83,8 +83,24 @@ defaults delete com.apple.dock static-only
 - キャプチャ画像の保存先をデフォルトのデスクトップから ~/Downloads にする
 ```sh
 defaults write com.apple.screencapture location ~/Downloads
+killall SystemUIServer
 # 元に戻す
 defaults delete com.apple.screencapture location
+killall SystemUIServer
+```
+
+- キャプチャ画像のファイル形式をデフォルトの PNG から JPEG にする
+```sh
+defaults write com.apple.screencapture type jpg
+killall SystemUIServer
+# その他
+gif / png / jpg / jp2 / pdf / pict / psd / sgi / tga / tif / bmp
+```
+
+- キャプチャ画像のファイル名から "Screen Shot" を消す
+```sh
+defaults write com.apple.screencapture name ""
+killall SystemUIServer
 ```
 
 - macOS Mojaveで非Retinaモニタのフォントが汚い件の解決策
@@ -95,14 +111,6 @@ defaults write -g CGFontRenderingFontSmoothingDisabled -bool YES
 ```
 
 ref https://hatebu.me/entry/mojavefont
-
-
-- キャプチャ画像のファイル形式をデフォルトの PNG から JPEG にする
-```sh
-defaults write com.apple.screencapture type jpg
-# その他
-gif / png / jpg / jp2 / pdf / pict / psd / sgi / tga / tif / bmp
-```
 
 - Menu バーのバッテリーアイコンに残量をパーセント表示する
   - Menu のバッテリーアイコン -> [Show Percentage]
