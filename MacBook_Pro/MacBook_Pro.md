@@ -30,6 +30,9 @@
   設定しない
   % sudo tmutil disablelocal
 
+- Disallow Mail app to launch on clicking email text
+  Launch [Mail] -> Menu [Mail] -> [Preferences...] -> [General] Tab -> Select [Default email reader: ] iTerm etc.
+
 - 妙にダサい「○○のMac」をやめる
 
   [システム環境設定] -> [共有]パネル
