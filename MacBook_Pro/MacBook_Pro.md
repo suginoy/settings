@@ -56,6 +56,9 @@
 - タブ表示
   [Finder] -> [表示] -> [タブバーを表示]
 
+- ターミナルの open コマンドや他のアプリから Finder を開くときにタブで開く
+  [System Preferences...] -> [Dock] -> [Prefer tabs when opening documents]: Select [Always]
+
 - SSD容量を確認
   [Finder] -> [表示] -> [ステータスバーを表示]
 
