@@ -203,6 +203,9 @@ ref https://hatebu.me/entry/mojavefont
 cp ./CoverVersion.bundle ~/Library/iTunes/iTunes\ Plug-ins/
 ```
 
+- TaskChute Cloud
+  https://taskchute.cloud/users/appdownload
+
 TODO: 設定
 
 - AppCleaner http://www.freemacsoft.net/appcleaner/
