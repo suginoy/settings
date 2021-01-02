@@ -11,6 +11,7 @@ brew "direnv"
 brew "docker", link: false
 brew "docker-compose", link: false
 brew "ffmpeg"
+brew "git-secrets"
 brew "go"
 brew "netpbm"
 brew "python@3.8"

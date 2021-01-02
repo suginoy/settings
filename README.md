@@ -13,3 +13,9 @@ ln -s $etc/docker-compose.zsh-completion /usr/local/share/zsh/site-functions/_do
 ```
 
 https://docs.docker.com/docker-for-mac/#zsh
+
+## git-secrets via Homebrew
+```sh
+% git secrets --register-aws --global
+% git secrets --install ~/.git-templates/git-secrets
+```
