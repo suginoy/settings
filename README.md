@@ -13,7 +13,3 @@ ln -s $etc/docker-compose.zsh-completion /usr/local/share/zsh/site-functions/_do
 ```
 
 https://docs.docker.com/docker-for-mac/#zsh
-
-## Ricty Font
-
-1. Rictyフォントをそれぞれダブルクリックして、「フォントをインストール」をクリックしてインストールします。
