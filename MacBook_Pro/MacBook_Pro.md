@@ -157,6 +157,10 @@ ref https://hatebu.me/entry/mojavefont
 
 ### Download
 
+- 1Password 6
+  - https://1password.com/jp/downloads/mac/
+  - [Preferences...] -> [Security] Tab -> [Touch ID] -> Check [Allow Touch ID unlock 1Password]
+
 - Browsers
   - Chrome https://www.google.co.jp/chrome/
   - Firefox https://www.mozilla.org/ja/firefox/new/
