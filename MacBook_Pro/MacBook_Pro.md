@@ -210,6 +210,10 @@ cp ./CoverVersion.bundle ~/Library/iTunes/iTunes\ Plug-ins/
 - TaskChute Cloud
   https://taskchute.cloud/users/appdownload
 
+- Safari
+  - [Preferences...] -> [Advanced] -> Smart Search Field -> Check [Show full website address]
+  - [Preferences...] -> [Advanced] -> Check [Show Develop menu in menu bar]
+
 TODO: 設定
 
 - AppCleaner http://www.freemacsoft.net/appcleaner/
