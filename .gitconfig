@@ -19,6 +19,7 @@
 	stsp = stash show -p
 	std  = stash drop
 	stl = stash list
+	push-f = push --force-with-lease
 [color]
 	ui = auto
 [user]
