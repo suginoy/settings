@@ -1,0 +1,32 @@
+// Move to ~/Library/Application Support/Code/User/settings.json
+{
+  "files.autoSave": "onFocusChange",
+  "files.insertFinalNewline": true,
+  "files.trimTrailingWhitespace": true,
+  "ruby.codeCompletion": "rcodetools",
+  "ruby.format": "rubocop",
+  "ruby.intellisense": "rubyLocate",
+  "ruby.lint": {
+    "rubocop": true
+  },
+  "ruby.rubocop.executePath": "/Users/suginoyasuhiro/.rbenv/shims/",
+  // "ruby.rubocop.configFilePath": ".rubocop.yml",
+  "ruby.rubocop.useBundler": true,
+  "ruby.rubocop.onSave": true,
+  "solargraph.commandPath": "/Users/suginoyasuhiro/.rbenv/shims/solargraph",
+  "gulp.autoDetect": "off",
+  "grunt.autoDetect": "off",
+  "search.exclude": {
+    "log": true,
+    "vendor/bundle": true,
+    "**/node_modules": true,
+    "**/bower_components": true,
+    "**/tmp/cache": true,
+    ".git": true
+  },
+  "[ruby]": {
+    "editor.defaultFormatter": "misogi.ruby-rubocop"
+  },
+  "editor.formatOnSave": true,
+  "window.zoomLevel": 1
+}

@@ -1,0 +1,27 @@
+# code --list-extensions | xargs -L 1 echo code --install-extension > ./install_extension.sh
+code --install-extension aki77.haml-lint
+code --install-extension aki77.rails-db-schema
+code --install-extension bung87.rails
+code --install-extension bung87.vscode-gemfile
+code --install-extension castwide.solargraph
+code --install-extension CodeStream.codestream
+code --install-extension donjayamanne.githistory
+code --install-extension eamodio.gitlens
+code --install-extension kaiwood.endwise
+code --install-extension karunamurti.haml
+code --install-extension labocho.git-log-p
+code --install-extension mechatroner.rainbow-csv
+code --install-extension mikestead.dotenv
+code --install-extension misogi.ruby-rubocop
+code --install-extension ms-azuretools.vscode-docker
+code --install-extension ms-python.python
+code --install-extension ms-python.vscode-pylance
+code --install-extension ms-toolsai.jupyter
+code --install-extension ms-toolsai.jupyter-keymap
+code --install-extension ms-toolsai.jupyter-renderers
+code --install-extension ms-vscode-remote.remote-containers
+code --install-extension PKief.material-icon-theme
+code --install-extension rebornix.ruby
+code --install-extension sianglim.slim
+code --install-extension sporto.rails-go-to-spec
+code --install-extension wingrunr21.vscode-ruby
