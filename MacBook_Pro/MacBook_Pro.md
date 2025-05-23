@@ -2,7 +2,7 @@
 
 - 確認ダイアログをマウスを使わないで選択する
 
-  [System Preferences] -> [Keyboard] -> Select [Shortcuts] tab -> [Full Keyboard Access: In windows and dialogs, press Tab to move keyboard focus between:] -> Select [All controls] radio button
+  [System Settings...] -> [Keyboard] -> Select [Shortcuts] tab -> [Full Keyboard Access: In windows and dialogs, press Tab to move keyboard focus between:] -> Select [All controls] radio button
 
   Tab のフォーカスがどちらにあたってようが、Return を押したら選択されているほうで決定してしまうので Space キーを使うこと。
   http://highfivecreate.com/blog/job/796.html
@@ -12,19 +12,24 @@
 
 - 同一アプリケーションのウィンドウを切り替えるショートカット（デフォルトは Cmd + F1)
 
-  [System Preferences...] -> [Keyboard]icon -> [Shortcuts]tab -> [Keyboard] -> [Move focus to next window] -> Click [⌘F1] -> input [Option]key + [Tab]key
+  [System Settings...] -> [Keyboard]icon -> [Shortcuts]tab -> [Keyboard] -> [Move focus to next window] -> Click [⌘F1] -> input [Option]key + [Tab]key
 
 - Dock を自動的に隠す
-  [System Preferences...] -> [Dock] -> Check [Automatically hide and show the Dock]
+  [System Settings...] -> [Dock] -> Check [Automatically hide and show the Dock]
 
 ## トラックパッド
 
-- [システム環境設定] -> [トラックパッド] -> [ポイントとクリック]タブ -> [奇跡の速さ] 右から3つ目
+- [System Settings...] -> [Trackpad] -> [Point & Click]タブ -> [Tracking speed] 右から3つ目
+- [System Settings...] -> [Trackpad] -> [Point & Click]タブ -> [Tap to click] ON
 
 ## Finder
 
-- [表示] -> [ツールバーのカスタマイズ]
-    [クイックルック]をツールバーに追加
+- [View] -> [Customize Toolbar...]
+    [Quick Look]をツールバーに追加
+
+- [View] -> [Show Status Bar]
+
+- [View] -> [Show Path Bar] 右クリックで [Copy "filename" as Pathname]が表示される
 
 - Time Machine ローカルスナップショットをしない
   設定しない
@@ -57,7 +62,7 @@
   [Finder] -> [表示] -> [タブバーを表示]
 
 - ターミナルの open コマンドや他のアプリから Finder を開くときにタブで開く
-  [System Preferences...] -> [Dock] -> [Prefer tabs when opening documents]: Select [Always]
+  [System Settings...] -> [Dock] -> [Prefer tabs when opening documents]: Select [Always]
 
 - SSD容量を確認
   [Finder] -> [表示] -> [ステータスバーを表示]
@@ -122,15 +127,15 @@ ref https://hatebu.me/entry/mojavefont
   - Menu のバッテリーアイコン -> [Show Percentage]
 
 ## Dock環境設定
-[システム環境設定] -> [Dock]パネル
+[System Settings...] -> [Dock]パネル
   [ウィンドウのタイトルバーをダブルクリックしてウィンドウをしまう]にチェック
   [Dockを自動的に隠す／表示]にチェック
 
 ## iCloudでMacを探す
-[システム環境設定] -> [iCloud]パネル -> 一覧から[Macを探す]にチェック
+[System Settings...] -> [iCloud]パネル -> 一覧から[Macを探す]にチェック
 
 ## シリアル番号を控える
-[このMacについて] -> [詳しい情報...] -> [概要タブ] -> キャプチャしてDropBoxへJPEG保存
+[About This Mac] -> キャプチャしてDropBoxへJPEG保存
 
 ## Apps
 
